@@ -1,8 +1,3 @@
-#article_1 {
-    padding: 4em;
-}
-
-
 .logo {
   padding-top: 2em;
   width: 6em;
@@ -10,8 +5,8 @@
 
 
 .heavyrule {
-border-top: 5px solid #aaa !important;
-padding: 0px !important;
+    border-top: 5px solid #aaa !important;
+    padding: 0px !important;
 }
 
 h1 {
