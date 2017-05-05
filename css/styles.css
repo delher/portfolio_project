@@ -1,0 +1,33 @@
+#article_1 {
+    padding: 4em;
+}
+
+
+.logo {
+  padding-top: 2em;
+  width: 6em;
+}
+
+
+.heavyrule {
+border-top: 5px solid #aaa !important;
+padding: 0px !important;
+}
+
+h1 {
+    font-weight: 100;
+    letter-spacing: 0.1em;
+}
+
+h2 {
+    margin-left: 30px;
+    font-weight: 300;
+    color: #ddd;
+    letter-spacing: 0.05em;
+}
+
+h4 {
+    font-weight: 300;
+    font
+}
+
